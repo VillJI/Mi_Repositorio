@@ -1,5 +1,5 @@
 package parcialLaboratorioVillalbaJuan;
 
-public abstract class Maritimo {
+public abstract class Maritimo extends Vehiculo{
 
 }

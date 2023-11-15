@@ -1,5 +1,5 @@
 package parcialLaboratorioVillalbaJuan;
 
-public abstract class Terrestre {
+public abstract class Terrestre extends Vehiculo{
 
 }
